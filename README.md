@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @SilverFlame83
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I am Imren!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-SilverFlame83/SilverFlame83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻  I'm currently studying for a Front End Web Developer at Software University.\
+🎓  Have a bachelor's degree in an applied linguistics\
+💡   I possess excellent teamwork skills, ambitious and good at solving problems.
+
+🛠️ Technologies & Targets:\
+![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=<#1572B6>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<#E34F26/>&logoColor=white&color=2bbc8a)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverFlame83&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverFlame83&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
