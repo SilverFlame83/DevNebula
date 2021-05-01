@@ -18,6 +18,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilverFlame83&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverFlame83&theme=react" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilverFlame83&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=SilverFlame83&repo=github-readme-stats" />
 
 
