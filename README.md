@@ -1,6 +1,6 @@
 # Hello, I am Imren!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-💻  I'm currently studying for a Front End Web Developer at Software University.\
+💻  I'm currently studying for a Full Stack Web Developer at Software University.\
 🎓  Have a bachelor's degree in an applied linguistics\
 💡   I possess excellent teamwork skills, ambitious and good at solving problems.
 
