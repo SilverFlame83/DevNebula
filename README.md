@@ -1,4 +1,4 @@
-# Hello, I am Imren!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 💻  I'm currently studying for a Full Stack Web Developer at SoftUni\
 🎓  Have a bachelor's degree in an applied linguistics\
